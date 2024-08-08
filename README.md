@@ -1,6 +1,6 @@
 # LumoGrindz
 ![License Badge](https://shields.io/badge/license-MIT-yellow)  
-Application [Link](https://lumo-grindz.herokuapp.com/)
+Application [Link](https://lumogrindz.herokuapp.com/)
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
